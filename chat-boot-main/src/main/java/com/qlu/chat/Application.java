@@ -7,5 +7,7 @@ public class Application {
         System.out.println("我是test分支");
 
         System.out.println("查哈参加");
+
+        System.out.println("hello world");
     }
 }
